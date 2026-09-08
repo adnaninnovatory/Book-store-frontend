@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"LAPD Book",
+        "price":300,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":2,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Poetry Book",
+        "price":150,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":3,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Comedy Book",
+        "price":200,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":4,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Cafe Book",
+        "price":180,
+        "category":"Paid",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":5,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Coding Book",
+        "price":50,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":6,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Computer",
+        "price":20,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":7,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Cars Book",
+        "price":10,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":8,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Family Book",
+        "price":30,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":9,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Entertaining",
+        "price":90,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    },
+    {
+        "id":10,
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, excepturi.",
+        "title":"Horror Book",
+        "price":10,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?ga=GA1.1.983857836.1714289745&semt=sph"
+    }
+]
